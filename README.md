@@ -11,7 +11,6 @@
 ## I'm a Fresher Frontend Developer!!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently working for VTCode 🤣
 - 👯 I’m building a BIM Web Application
 - 🥅 Remaining 2023 Goals: Complete first phase of our BIM solution
 - ⚡ Side hobbies: ARAM games, Unpopular Music, Follow Youtube Recommendations
